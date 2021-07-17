@@ -1,5 +1,6 @@
 # Been
 금융데이터경진대회
+***오른쪽 수정버튼 누르면 EDIT 창에 접속 가능
 ![image](https://user-images.githubusercontent.com/87536808/126027541-ed2c1bfa-51bb-499b-be0c-22513df74aca.png)
 ![image](https://user-images.githubusercontent.com/87536808/126027553-70b1fece-2ca3-4c70-a3fb-b009699d45cb.png)
 ![image](https://user-images.githubusercontent.com/87536808/126027554-07e6e7b2-6a2b-4fbe-82bf-4801a5b127ab.png)

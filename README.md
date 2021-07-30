@@ -287,3 +287,5 @@ ggplot(DF1901,aes(x=지역구,y=합계))+
   geom_bar(stat="identity")+
   theme(text=element_text(size=15))
 ![Rplot](https://user-images.githubusercontent.com/87536808/127630833-3f9ebc1a-c8d8-4ab9-9bfb-c3297109a610.png)
+![Rplot01](https://user-images.githubusercontent.com/87536808/127633523-3eec8fac-7b2a-44cb-b258-44d4359d1fb5.png)
+

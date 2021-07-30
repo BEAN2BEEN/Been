@@ -579,5 +579,8 @@ ggplot(DF24681012,aes(x=지역구,y=총합))+
 ![2019 구별 승하차](https://user-images.githubusercontent.com/87536808/127648807-f0e72ae6-89c7-41ce-8014-9c621cfb55e3.png)
 
 #### 2020도 같은 방법으로 진행함
+![2020 구별 승하차](https://user-images.githubusercontent.com/87536808/127663229-b2d1d844-3a44-4e26-93fa-0e74aade8100.png)
+
+###확실히 y축 높이가 낮아진 것을 확인할 수 있음!
 
 
